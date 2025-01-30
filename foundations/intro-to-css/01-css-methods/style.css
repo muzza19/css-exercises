@@ -1,4 +1,10 @@
 
 div {
-  color: white; background-color: red; padding-top: 1px; padding-bottom: 1px; text-align: center; font-size: 35px; font-weight: bold;
+  color: white; 
+  background-color: red;
+   padding-top: 1px;
+    padding-bottom: 1px; 
+    text-align: center; 
+    font-size: 35px;
+     font-weight: bold;
 }

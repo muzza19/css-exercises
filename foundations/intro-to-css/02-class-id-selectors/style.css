@@ -1,0 +1,20 @@
+#one{
+    font-family: 'Impact';
+    color: red;
+    font-size: 25px;
+}
+#two{
+    font-family: 'Times New Roman';
+    color: blue;
+    font-size: 50px;
+}
+.three{
+    font-family: 'Impact';
+    color: red;
+    font-size: 25px;
+}
+.four{
+    font-family: 'Times New Roman';
+    color: blue;
+    font-size: 50px;
+}
