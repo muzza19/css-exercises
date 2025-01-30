@@ -1,20 +1,30 @@
 #one{
     font-family: 'Impact';
-    color: red;
-    font-size: 25px;
+    background-color: pink;
+    font-size: 20px;
 }
 #two{
     font-family: 'Times New Roman';
     color: blue;
     font-size: 50px;
+    padding-bottom: 30px;
+    font-weight: bolder;
 }
-.three{
+#three{
     font-family: 'Impact';
-    color: red;
-    font-size: 25px;
+    background-color: pink;
+    font-size: 30px;
+    
 }
-.four{
+#four{
     font-family: 'Times New Roman';
-    color: blue;
-    font-size: 50px;
+    background-color: rgb(25, 228, 25);
+    font-size: 40px;
+}
+
+
+#five{
+    font-family: 'Times New Roman';
+    background-color: pink;
+    font-size: 20px;
 }
